@@ -1,4 +1,4 @@
-# SI-GuidedProject-611862-1698429144
+# Lymphography Classification using ML
 
 ### CODE (MODEL BUILDING AND DATA PREPROCESSING)
 
